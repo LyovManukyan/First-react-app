@@ -1,0 +1,51 @@
+.active{
+  color: aqua;
+}
+.container{
+  width:90% ;
+  margin: auto;
+}
+.holiday{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+}
+.holidays_main_div{
+  display: flex;
+  flex-direction: column;
+  margin-top: -100px;
+}
+.h2-gift{
+  font-family: 'Gilroy';
+  font-size: 32px;
+  padding: 90px 0 0 0;
+}
+.holidat-text-parent{
+  text-align: center;
+}
+.p-gift{
+  padding-bottom: 60px;
+}
+.holidays-img-parent{
+  background: lightgrey;
+  box-shadow: 10px 10px 30px 10px grey;
+  padding-bottom: 24px;
+}
+.holidays-name{
+  font-family: 'Gilroy';
+  font-size: 20px;
+  padding-bottom: 40px;
+}
+.holidays-btn{
+  background: none;
+  border: none;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+}
+.holidays-name,.holidays-btn
+{
+  padding-left: 24px;
+}

@@ -1,0 +1,36 @@
+.footer-nav{
+  display: flex;
+  justify-content: center;
+  width: 60%;
+  border-bottom: 2px solid grey;
+  margin: auto;
+  padding: 115px 0 53px 0;
+}
+.footer-nav-ul{
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  gap:81px;
+  font-family: 'Gilroy';
+  font-size: 14px;
+  font-weight: 700;
+  margin: auto;
+}
+.icons-parent{
+  display: flex;
+  width: 60%;
+  margin: auto;
+  justify-content: center;
+  gap: 26px;
+  padding: 55px 0 72px 0;
+}
+.copyright{
+  display: flex;
+  width: 60%;
+  margin: auto;
+  justify-content: center;
+  padding-bottom: 35px;
+  font-family: 'Gilroy';
+  font-size: 14px;
+  gap: 14px ;
+}
